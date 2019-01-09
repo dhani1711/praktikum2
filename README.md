@@ -15,9 +15,9 @@ latihan6
 #modul4
 do-while
 ![alt text](https://github.com/dhani1711/praktikum2/blob/master/hasil/modul4.do-while.png?raw=true)
-while
-![alt text](https://github.com/dhani1711/praktikum2/blob/master/hasil/modul4.for.png?raw=true)
 for
-![alt text](https://github.com/dhani1711/praktikum2/blob/master/hasil/modul4.foreach.png?raw=true)
+![alt text](https://github.com/dhani1711/praktikum2/blob/master/hasil/modul4.for.png?raw=true)
 foreach
+![alt text](https://github.com/dhani1711/praktikum2/blob/master/hasil/modul4.foreach.png?raw=true)
+while
 ![alt text](https://github.com/dhani1711/praktikum2/blob/master/hasil/modul4.while.png?raw=true)
